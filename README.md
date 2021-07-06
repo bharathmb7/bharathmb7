@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @bharathmb7
+- 🏫 I'm an udergraduate student at MSRIT, studying computer science
 - 👀 I’m totally new to github and opensource
 - 🌱 I’m currently learning basic programming c,c++ and some web development
 - 💞️ I’m looking to collaborate on any beginner friendly projects
