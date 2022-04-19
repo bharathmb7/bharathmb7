@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bharathmb7
+- 👋 Hi, I’m Bharath
 - 🏫 I'm an udergraduate student at MSRIT, studying computer science
-- 👀 I’m totally new to github and opensource
-- 🌱 I’m currently learning basic programming c,c++ and some web development
-- 💞️ I’m looking to collaborate on any beginner friendly projects
+- 🌱 I’m currently learning web-dev and looking forward to blockchain and web3
 - 📫 How to reach me www.linkedin.com/in/bharathmb
 
 <!---
